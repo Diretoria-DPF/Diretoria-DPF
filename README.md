@@ -6,7 +6,7 @@
   <img alt="Daniel Pires Francisco: Farmácia, IA em saúde, Educação e Pesquisa" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-**Presidente da LAIFT** · Graduando em **Farmácia** (UNINASSAU Salvador) · *também conhecido como Daniel P Francisco*
+**Presidente da LAIFT** · Graduando em **Farmácia** (UNINASSAU Salvador)
 
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-dpflabs.com-14b8a6?style=for-the-badge)](https://dpflabs.com)
 [![LAIFT](https://img.shields.io/badge/🧬_Plataforma-laift.com.br-6366f1?style=for-the-badge)](https://laift.com.br)
@@ -21,10 +21,10 @@
 
 ## 👋 Olá!
 
-Eu construo **plataformas de ensino em saúde com inteligência artificial**: simuladores, laboratórios virtuais e jogos que ajudam estudantes a entender farmacologia e toxicologia na prática, com segurança.
+Eu sou **Daniel P Francisco** e construo **plataformas de ensino em saúde com inteligência artificial**: simuladores, laboratórios virtuais e jogos que ajudam estudantes a entender farmacologia e toxicologia na prática, com segurança.
 
 > [!NOTE]
-> Todo o conteúdo aqui é **educativo**. Nada substitui o acompanhamento de profissionais de saúde habilitados.
+> Aqui o foco é **aprender**: simular, verificar e se preparar para o próximo passo com informação confiável.
 
 ## 🧭 Escolha a sua trilha
 
@@ -146,6 +146,6 @@ Novas formas de **estudar farmacologia e toxicologia com IA**, a evolução da p
 
 <div align="center">
 
-🔎 Pesquisando por mim? **Daniel Pires Francisco** · **Daniel P Francisco** · [dpflabs.com](https://dpflabs.com)
+🔎 Pesquisando por mim? Encontre **Daniel Pires Francisco** em [dpflabs.com](https://dpflabs.com)
 
 </div>
