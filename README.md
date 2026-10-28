@@ -13,7 +13,7 @@
 [![Lattes](https://img.shields.io/badge/🎓_Lattes-currículo-0ea5e9?style=for-the-badge)](http://lattes.cnpq.br/5041510175000740)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-perfil-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/daniel-pires-farmacia/)
 
-📍 Salvador, Bahia, Brasil · ✉️ contato via LinkedIn
+📍 Salvador, Bahia, Brasil · ✉️ contato pelo [LinkedIn](https://www.linkedin.com/in/daniel-pires-farmacia/)
 
 </div>
 
@@ -83,7 +83,7 @@ Protótipo desenvolvido para a participação no **32º Prêmio Jovem Cientista 
 <td colspan="2" valign="top">
 
 ### 🧬 Plataforma LAIFT (no ar)
-O ambiente completo da liga: governança, clínica virtual, laboratório, atlas 3D e quizzes. O código é privado; para uma **demonstração guiada**, escreva para contato via LinkedIn.
+O ambiente completo da liga: governança, clínica virtual, laboratório, atlas 3D e quizzes. O código é privado; para uma **demonstração guiada**, escreva pelo [LinkedIn](https://www.linkedin.com/in/daniel-pires-farmacia/).
 [Acessar laift.com.br](https://laift.com.br)
 
 </td>
